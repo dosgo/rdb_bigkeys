@@ -1,4 +1,4 @@
-module github.com/dosgo/xsocks
+module github.com/dosgo/rdb_bigkeys
 
 go 1.16
 
